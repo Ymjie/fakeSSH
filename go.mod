@@ -1,4 +1,4 @@
-module github.com/Ymjie/GoSHHFish
+module github.com/Ymjie/fakeSSH
 
 go 1.18
 
